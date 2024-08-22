@@ -2,7 +2,7 @@
 
 Meu nome é Robert Souza
 
-- Estou estudando na Alura
+- Estou estudando na [Alura](https://www.alura.com.br)
 - Estou me desenvolvendo na linguagem JavaScript
 - Utiliz0 esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
@@ -12,4 +12,4 @@ Meu nome é Robert Souza
 
   @robertsouza
 
-![](https://images.app.goo.gl/gwELKh8GY4Rt5oNK7)
+![](https://media.tenor.com/9DOXBiQspSQAAAAi/hampter-sad.gif)
